@@ -5,7 +5,7 @@ build:
 
 .PHONY: run
 run: build
-	./test
+	./sandbox
 
 .PHONY: install-wire
 install-wire:
